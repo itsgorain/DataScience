@@ -43,6 +43,9 @@ https://deeplearning4j.org/opendata
 https://data.europa.eu/euodp/en/home
 Didn't open last time I checked. Try data.europa.eu in a bit in case they are doing a redesign
 
+### Gapminder Open Data
+https://www.gapminder.org/data/
+
 ### Google BigQuery Public Datasets
 https://cloud.google.com/bigquery/public-data/
 
