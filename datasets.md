@@ -18,11 +18,17 @@ http://dados.gov.br/
 ### Buenos Aires Open Data
 https://data.buenosaires.gob.ar/
 
-### City of Portland - Crime Statistics
-https://www.portlandoregon.gov/police/71978
-
 ### City of Denver Open Data Catalog
 https://www.denvergov.org/opendata
+
+### City of Portland Open Data
+https://www.portlandoregon.gov/28130
+
+### City of Portland Crime Statistics
+https://www.portlandoregon.gov/police/71978
+
+### City of Seattle Open Data
+https://data.seattle.gov/
 
 ### Data.gov - US Government Open Data
 https://www.data.gov/
