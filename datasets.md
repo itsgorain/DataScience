@@ -28,7 +28,7 @@ https://www.denvergov.org/opendata
 https://www.data.gov/
 
 ### Data World
-https://www.linkedin.com/company/data.world/
+https://data.world/
 
 ### DL4J - Open Data for Deep Learning & Machine Learning
 https://deeplearning4j.org/opendata
